@@ -1,0 +1,17 @@
+# 本地解包数据与临时产物，不入 git
+raw/
+*.tmp
+*.log
+
+# 密钥、参数、提取码一类，永不入库
+.secrets/
+*.key
+*apikey*
+*提取码*
+encoder/
+
+# 编辑器与系统
+node_modules/
+Thumbs.db
+Desktop.ini
+.DS_Store
