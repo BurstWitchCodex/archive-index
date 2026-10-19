@@ -1,4 +1,4 @@
-# BurstWitchCodex/cache
+# BurstWitchCodex/archive-index
 
 《爆裂魔女》解包数据的去重归档索引仓库。本仓库只保存清单和核对脚本，数据实体压缩后存外部网盘。
 对应 Wiki 仓库的 issue #2「关于游戏其他数据的未来归档方案」。
@@ -24,7 +24,7 @@
 
 ## 目录结构
 
-    cache/
+    archive-index/
       README.md
       .gitignore
       manifest.bat                  双击可用的封装，new / check / list 三个动作
